@@ -10,7 +10,7 @@ namespace firstassignment
     {
         static void Main(string[] args)
         {
-
+Class1.salman
         }
     }
 }
