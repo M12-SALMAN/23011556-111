@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class2
+static class Class2
 {
-	public Class2()
+	static public void salman()
 	{
         double num1, num2, result = 0;
         char operation;
@@ -58,3 +58,4 @@ public class Class2
     }
 }
 }
+
