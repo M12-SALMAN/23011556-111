@@ -10,7 +10,17 @@ namespace firstassignment
     {
         static void Main(string[] args)
         {
-Class1.salman
+          Class1.salman;
+            Class2.salman;
+            Class3.salman;
+            Class4.salman;
+            Class5.salman;
+            Class6.salman;
+            Class7.salman;
+            Class8.salman;
+            Class9.salman;
+            Class10.salman;
+            
         }
     }
 }
