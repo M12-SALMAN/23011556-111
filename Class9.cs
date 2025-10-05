@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class9
+static class Class9
 {
-	public Class9()
+	static public void salman()
 	{
         {
             int[] numbers = new int[10];
@@ -30,3 +30,4 @@ public class Class9
         }
     }
 }
+
