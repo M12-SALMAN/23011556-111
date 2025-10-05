@@ -2,7 +2,7 @@
 
 static class Class1
 {
-	static public void method()
+	static public void salman()
 	{
         
         Console.Write("Enter a number: ");
@@ -19,5 +19,6 @@ static class Class1
         }
     }
 }
+
 
 
