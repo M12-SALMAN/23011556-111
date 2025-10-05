@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class6
+static class Class6
 {
-	public Class6()
+	static public void salman()
 	{
         {
             Console.Write("Enter a number: ");
@@ -21,3 +21,4 @@ public class Class6
         }
     }
 }
+
